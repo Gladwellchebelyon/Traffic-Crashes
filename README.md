@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/a4041424-a382-42b7-ad18-cbcd8689aa45)
+
+
+
 # Traffic Crash Analysis: Predicting Primary Contributory Cause
 
 
